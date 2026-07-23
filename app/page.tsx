@@ -20,7 +20,7 @@ const Home = ({ searchParams }: SearchParamProps) => {
             alt="patient"
             className="mb-12 h-10 w-fit"
           /> */}
-          <h1 className="">ElshCare</h1>
+          <h1 className="mb-12 h-10 w-fit">ElshCare</h1>
 
           <PatientForm />
 
